@@ -21,11 +21,11 @@ https://react-bootstrap-web.netlify.app
 ### Images
 <table>
 <tr>
-<td><img src = "project-2-1.png" width="128" height="128">
-<img src = "project 2-2.png" width="128" height="128"></td></tr>
+<td><img src = "project-2-1.png" width="250" height="250">
+<img src = "project 2-2.png" width="250" height="250"></td></tr>
 <tr>
-<td><img src = "project 2-3.png.png" width="128" height="128">
-<img src = "project 2-4.png.png"width="128" height="128"></td></tr>
+<td><img src = "project 2-3.png.png" width="250" height="250">
+<img src = "project 2-4.png.png"width="250" height="250"></td></tr>
 </table>
 
 ## Bugs / Issues
