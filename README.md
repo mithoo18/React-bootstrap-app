@@ -14,6 +14,17 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+
+### About Project
+
+- Technology :- HTML,CSS,Javascript,ReactJs,Boostrap
+
+- Features :- Seprate Column Blogs,Slider,Components,Header,Footer,Navigation 
+
+- Pages:-Home,About-Us,Contact-Us
+
+Deploy:-https://react-bootstrap-web.netlify.app/
+
 ### Deployment
 
 https://react-bootstrap-web.netlify.app
